@@ -1,4 +1,4 @@
 # dammy-tech-h
 
 website link 
-https://dammydx.github.io/
+https://dammydx.github.io/dammy-tech-h/
